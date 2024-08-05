@@ -51,5 +51,3 @@ Se você deseja contribuir para a melhoria da Online Library, siga os passos aba
 3. Faça commit das suas alterações (`git commit -m 'Adiciona Minha Funcionalidade'`).
 4. Faça um push para a branch (`git push origin feature/MinhaFuncionalidade`).
 5. Abra um Pull Request.
-
->> Att: apenas para fins de práticas com tecnologias de frontend.
